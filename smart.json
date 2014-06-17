@@ -1,6 +1,6 @@
 {
   "name": "lightbox-me",
-  "description": "jquery lightbox",
+  "description": "jquery lightbox wrapper for meteor",
   "homepage": "http://buckwilson.me/lightboxme/",
   "author": "kokaqux",
   "version": "0.0.1",

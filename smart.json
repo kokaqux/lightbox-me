@@ -3,6 +3,6 @@
   "description": "jquery lightbox wrapper for meteor",
   "homepage": "http://buckwilson.me/lightboxme/",
   "author": "kokaqux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/kokaqux/lightbox-me"
 }
